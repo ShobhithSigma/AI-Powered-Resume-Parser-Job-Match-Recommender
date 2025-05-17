@@ -1,0 +1,17 @@
+resume-ai-job-match/
+├── data/
+│   └── jobs_dataset.csv
+├── resumes/
+│   └── sample_resume.pdf
+├── src/
+│   ├── resume_parser.py
+│   ├── job_matcher.py
+│   └── utils.py
+├── app/
+│   └── streamlit_app.py
+├── models/
+│   └── sentence_transformer_model/
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── .gitignore
