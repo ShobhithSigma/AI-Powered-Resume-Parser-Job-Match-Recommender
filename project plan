@@ -1,0 +1,24 @@
+PHASE 1 – PROJECT PLAN
+✅ Features:
+Upload a resume (PDF/DOCX)
+
+Extract key info (Name, Skills, Education, Experience)
+
+Match with job descriptions from a dataset using embeddings
+
+Recommend top 5 job matches
+
+Web UI using Streamlit
+
+TECH STACK:
+Python
+
+spaCy (NLP entity extraction)
+
+pdfminer.six / docx (resume parsing)
+
+sentence-transformers (semantic similarity)
+
+Streamlit (simple UI)
+
+pandas, scikit-learn for job data matching
