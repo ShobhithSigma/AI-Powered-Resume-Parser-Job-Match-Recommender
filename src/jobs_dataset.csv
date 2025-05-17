@@ -1,0 +1,14 @@
+streamlit
+spacy
+pdfminer.six
+sentence-transformers
+pandas
+scikit-learn
+
+
+title,company,location,description
+Data Scientist,Google,California,"We need Python, ML, NLP and data analytics"
+AI Engineer,Amazon,Seattle,"AI model building, deep learning, Python"
+ML Developer,Facebook,New York,"Develop ML pipelines, NLP models in Python"
+Data Analyst,Netflix,California,"Data analysis, SQL, Python, dashboards"
+Research Scientist,OpenAI,Remote,"NLP, LLMs, transformers, Python, PyTorch"
